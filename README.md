@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Bikram Yadav, a tech enthusiast.
+I am Bikram Yadav, a programming enthusiast.
 
 - 🔭 I’m currently working on web-development.
 - 🌱 I’m currently learning cloud computing.
