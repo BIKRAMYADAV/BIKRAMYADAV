@@ -26,27 +26,6 @@ Python • NumPy • Pandas • Scikit-Learn • TensorFlow • Transformers •
 
 ---
 
-## 📈 Currently Learning
-
-- Machine Learning
-- LLM Applications
-- AI Agents
-- LangChain
-- RAG Systems
-- Vector Databases
-- Kubernetes
-
----
-
-## 🎯 2026 Goals
-
-- Contribute to Open Source
-- Become proficient in AI Engineering
-- Build production-grade AI applications
-- Reach 500+ LeetCode problems
-
----
-
 ## 🌐 Connect With Me
 
 - Email: bikram.deep.yadav.11@gmail.com
